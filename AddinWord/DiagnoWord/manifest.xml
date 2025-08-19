@@ -16,7 +16,7 @@
     <Host Name="Document"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://vixzy-exe.github.io/EssaiAddin01/taskpane.html"/>
+    <SourceLocation DefaultValue="https://vixzy-exe.github.io/EssaiAddin01/style.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
